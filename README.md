@@ -2,7 +2,7 @@
 <img src="https://files.catbox.moe/wb9g38.jpg" width="90%" heigt="90%">
 </p>
 
-<h1 align="center">Digital Telegram Bot</h1>
+<h1 align="center">JEPHTE Telegram Bot</h1>
 
 <p align="center">
 Base Node.js pour créer et déployer rapidement son propre bot Telegram.
@@ -10,7 +10,7 @@ Base Node.js pour créer et déployer rapidement son propre bot Telegram.
 
 <p align="center">
 
-<a href="https://wa.me/243833389567">
+<a href="https://wa.me/22655272706">
 <img src="https://img.shields.io/badge/Contact%20Developer-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
@@ -40,29 +40,29 @@ const channelUsername = process.env.CHANNEL_USERNAME || '@digitalcrewX';
 ```
 Configurer les valeurs suivantes :
 
-`BOT TOKEN`
+`8588166762:AAGfqluptUIJKw5maz1AUCrN-ACrGSwLgQ4`
 
 Remplacer :
 
-`LE_TOKEN_DU_BOT`
+`8588166762:AAGfqluptUIJKw5maz1AUCrN-ACrGSwLgQ4`
 
 par le token du bot Telegram.
 
 
-`ADMIN CHAT ID`
+`6234304571`
 
 Remplacer :
 
-`615784xxx`
+`6234304571`
 
 par l'identifiant Telegram de l'administrateur du bot.
 
 
-`CHANNEL USERNAME`
+`@jephteODG_bot`
 
 Remplacer :
 
-`@digitalcrewX`
+`@jephteODG_bot`
 
 par le username du canal Telegram.
 
@@ -134,5 +134,5 @@ Compatible avec :
 # Credits
 
 <p align="center"><img src="https://img.shields.io/badge/Developed%20By-Digital%20Crew-black?style=for-the-badge"></p><p align="center">
-Digital Crew — Telegram Bot Framework
+jephte Crew — Telegram Bot Framework
 </p>
