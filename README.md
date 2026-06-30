@@ -34,9 +34,9 @@ Configuration
 
 Dans index.js :
 ```bash
-const token = process.env.BOT_TOKEN || 'LE_TOKEN_DU_BOT';
-const adminChatId = process.env.ADMIN_CHAT_ID || '615784xxx';
-const channelUsername = process.env.CHANNEL_USERNAME || '@digitalcrewX';
+const token = process.env.BOT_TOKEN || '8588166762:AAGfqluptUIJKw5maz1AUCrN-ACrGSwLgQ4';
+const adminChatId = process.env.ADMIN_CHAT_ID || '6234304571';
+const channelUsername = process.env.CHANNEL_USERNAME || '@jephtODG_bot';
 ```
 Configurer les valeurs suivantes :
 
@@ -58,11 +58,11 @@ Remplacer :
 par l'identifiant Telegram de l'administrateur du bot.
 
 
-`@jephteODG_bot`
+`@jephtODG_bot`
 
 Remplacer :
 
-`@jephteODG_bot`
+`@jephtODG_bot`
 
 par le username du canal Telegram.
 
