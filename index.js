@@ -5,7 +5,7 @@ const TelegramBot = require('node-telegram-bot-api');
 
 const token = process.env.BOT_TOKEN || '8588166762:AAGfqluptUIJKw5maz1AUCrN-ACrGSwLgQ4'; // remplacez par le token de votre bot 
 const channelUsername = process.env.CHANNEL_USERNAME || '@jephtODG_bot'; // remplacez par le lien de votre canal télégram 
-const adminChatId = process.env.ADMIN_CHAT_ID || '62343045716234304571'; // remplacez par votre id telegram 
+const adminChatId = process.env.ADMIN_CHAT_ID || '6234304571'; // remplacez par votre id telegram 
 
 module.exports.adminChatId = adminChatId;
 
