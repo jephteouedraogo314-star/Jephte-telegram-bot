@@ -34,17 +34,17 @@ Configuration
 
 Dans index.js :
 ```bash
-const token = process.env.BOT_TOKEN || '8588166762:AAGfqluptUIJKw5maz1AUCrN-ACrGSwLgQ4';
+const token = process.env.BOT_TOKEN || '8687486588:AAEJWzipFGM_R25Zexidh_15_coWIUHAI2g';
 const adminChatId = process.env.ADMIN_CHAT_ID || '6234304571';
-const channelUsername = process.env.CHANNEL_USERNAME || '@jephtODG_bot';
+const channelUsername = process.env.CHANNEL_USERNAME || '@JephSSHserveur_bot';
 ```
 Configurer les valeurs suivantes :
 
-`8588166762:AAGfqluptUIJKw5maz1AUCrN-ACrGSwLgQ4`
+`8687486588:AAEJWzipFGM_R25Zexidh_15_coWIUHAI2g`
 
 Remplacer :
 
-`8588166762:AAGfqluptUIJKw5maz1AUCrN-ACrGSwLgQ4`
+`8687486588:AAEJWzipFGM_R25Zexidh_15_coWIUHAI2g`
 
 par le token du bot Telegram.
 
@@ -58,11 +58,11 @@ Remplacer :
 par l'identifiant Telegram de l'administrateur du bot.
 
 
-`@jephtODG_bot`
+`@JephSSHserveur_bot`
 
 Remplacer :
 
-`@jephtODG_bot`
+`@JephSSHserveur_bot`
 
 par le username du canal Telegram.
 
