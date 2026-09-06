@@ -3,9 +3,9 @@ const path = require('path');
 const http = require('http');
 const TelegramBot = require('node-telegram-bot-api');
 
-const token = process.env.BOT_TOKEN || '8588166762:AAGfqluptUIJKw5maz1AUCrN-ACrGSwLgQ4'; // remplacez par le token de votre bot 
-const channelUsername = process.env.CHANNEL_USERNAME || '@jephtODG_bot'; // remplacez par le lien de votre canal télégram 
-const adminChatId = process.env.ADMIN_CHAT_ID || '6234304571'; // remplacez par votre id telegram 
+const token = process.env.BOT_TOKEN || 'token de ton bot'; // remplacez par le token de votre bot 
+const channelUsername = process.env.CHANNEL_USERNAME || 'user de ton canal telegram'; // remplacez par le lien de votre canal télégram 
+const adminChatId = process.env.ADMIN_CHAT_ID || 'ton id télégram'; // remplacez par votre id telegram 
 
 module.exports.adminChatId = adminChatId;
 
